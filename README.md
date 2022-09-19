@@ -3,8 +3,8 @@
 
 ## South Carolina
 
-[2305 polling places](https://github.com/MassMove/PollingPlaces/blob/master/USA/SC/RP0120_PollingLocations.csv)
+[2296 polling places](https://github.com/MassMove/PollingPlaces/blob/master/USA/SC/SCVotes - Polling Locations.csv)
 
-Source: https://www.scvotes.org/data/Precincts.html
+Source: https://info.scvotes.sc.gov/Eng/VoterStatistics/VoterHistory/PrecinctAndPolling.aspx
 
 ![SC Polling Places Palladio visualization](https://github.com/MassMove/PollingPlaces/blob/master/USA/SC/map.png?raw=true "SC Polling Places Palladio visualization")
